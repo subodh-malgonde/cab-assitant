@@ -1,0 +1,6 @@
+{
+  "name": "python",
+  "description": "Python Uber Assistant",
+  "role": "arn:aws:iam::XXXXXXXXXXX:role/yyyyyyyy", //put your own IAM role here. Refer README.md for more details
+  "timeout": 30  // Required since  you will be making multiple calls in the Uber API and altogether will take more than 3 seconds
+}
