@@ -10,7 +10,7 @@ This repository contains code accompanying [this blog post](https://medium.com/p
 - Install required libraries using pip. You need to install these libraries at a level of the function [main.py](./functions/process_chat/main.py).
 
 
-    pip install requests pytz -t functions/process_chat
+        pip install requests pytz -t functions/process_chat
 
 
 ### AWS Credentials & API Gateway
