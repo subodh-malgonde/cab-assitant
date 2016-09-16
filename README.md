@@ -11,6 +11,8 @@ This repository contains code accompanying [this blog post](https://medium.com/p
 
 
     pip install requests pytz -t functions/process_chat
+
+
 ### AWS Credentials & API Gateway
 - [Signup](http://docs.aws.amazon.com/lambda/latest/dg/setting-up.html#setting-up-signup) for AWS, if you haven't already
 - You need AWS credentials to access its services like API Gateway and Lambda. We will do it using IAM (Identity and Access Management) user.
